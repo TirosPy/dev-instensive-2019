@@ -1,16 +1,32 @@
-#Пигасов_Тимофей
+# Встроенные файлы приложений
+* .apk
+* .ap_
+* .aab
 
-# Gradle files
-.gradle/
+# Локальный файл конфигурации (путь SDK и т. Д.)
+local.properties
 
-# User-specific configurations
-*.iml
+# Gradle файлы
+.gradle /
 
-# OS-specific files
+# Пользовательские конфигурации
+* .iml
+
+# ОС-специфичные файлы
 .DS_Store
 .DS_Store?
-._*
+._ *
 .Spotlight-V100
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Управление версиями
+vcs.xml
+
+# линт
+ворс / промежуточный /
+ворс / генерироваться /
+ворс / выходы /
+пух / TMP /
+пух / отчеты /
