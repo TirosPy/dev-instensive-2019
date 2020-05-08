@@ -1,16 +1,40 @@
-#Пигасов_Тимофей
+# Встроенные файлы приложений
+сборки /
 
-# Gradle files
-.gradle/
+# Файлы для АРТ / Далвик В.М.
+* .dex
 
-# User-specific configurations
-*.iml
+# Внешняя папка встроенной сборки, созданная в Android Studio 2.2 и более поздних версиях
+.externalNativeBuild
 
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# Gradle файлы
+.gradle /
+
+# Подписание файлов
+.signing /
+
+# Пользовательские конфигурации
+* .iml
+
+# Локальный файл конфигурации (путь SDK и т. Д.)
+local.properties
+
+# Лог-файлы
+*.журнал
+
+# Android Studio Navigation редактор временных файлов
+.navigation /
+
+# Android Studio захватывает папку
+захватывает /
+
+# Файлы ключей
+# Раскомментируйте следующие строки, если вы не хотите проверять файлы хранилища ключей в.
+* .jks
+* .keystore
+
+# Сервисы Google (например, API или Firebase)
+Google-services.json
+
+# Управление версиями
+vcs.xml
